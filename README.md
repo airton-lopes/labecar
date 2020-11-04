@@ -16,6 +16,7 @@
     - Postar anúncio.
     - Ver página de anúncios cadastrados.
     - Filtrar por nome ou valor.
+    - Filtrar com preço mínimo e preço máximo.
     - Classificar por crescente ou decrescente.
     
 ## Deploy da Aplicação com Surge: :dash:
